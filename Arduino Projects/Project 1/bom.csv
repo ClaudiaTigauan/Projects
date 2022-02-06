@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"U7",1," Arduino Uno R3"
+"R5",1,"100 Ω Resistor"
+"PIEZO3",1," Piezo"
+"R6",1,"10 kΩ Resistor"
+"U1",1," LCD 16 x 2 "
+"R1, R2, R3",3,"1 kΩ Resistor"
+"Rpot1",1,"250 kΩ Potentiometer"
+"S2",1," Pushbutton"
+"U3",1," Temperature Sensor [TMP36]"
+"PIR1",1,"-52.05924081657552 , 262.41712629920784 , -175.6286958975801 , -226.4630571177829  PIR Sensor"

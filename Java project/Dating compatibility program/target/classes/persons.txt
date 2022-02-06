@@ -1,0 +1,12 @@
+Claudia,abc,20,female,1.73,Bistrita
+2,3,4,1,4,5
+musical,rock,baking,male
+Manu,xy,21,male,1.79,Cluj
+3,5,4,3,2,1
+romantic,rock,baking,female
+Sever,af,21,male,1.81,Deva
+2,4,5,3,1,1
+romantic,pop,baking,female
+Maria,ff,19,female,1.65,Cluj
+1,2,3,4,5,2
+jazz,pop,dancing,male
